@@ -1,0 +1,37 @@
+h1{
+    color: goldenrod;
+}
+body{
+    text-align: center;
+    background-image: url("casino.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#message-el{
+    font-style: italic;
+}
+p{
+    color: white;
+}
+#start-game{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+}
+#new-card{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 4px;
+    margin-top:4px;
+}
